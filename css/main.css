@@ -43,7 +43,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #1a252f;
+  background-color: teal;
 }
 
 hr.star-dark {
@@ -118,7 +118,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #1a252f;
+  color: teal;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -126,7 +126,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #1a252f;
+  color: teal;
 }
 
 #mainNav .navbar-toggler {
@@ -151,11 +151,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #1a252f;
+    background: teal;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #1a252f;
+    background: teal;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -311,7 +311,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #1a252f;
+  color: teal;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -326,15 +326,15 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: teal;
 }
 
 a {
-  color: #1a252f;
+  color: teal;
 }
 
 a:focus, a:hover, a:active {
-  color: #1a252f;
+  color: teal;
 }
 
 .btn {
@@ -342,7 +342,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #1a252f !important;
+  background-color: teal !important;
 }
 
 .bg-secondary {
@@ -350,7 +350,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #1a252f !important;
+  color: teal !important;
 }
 
 .text-secondary {
@@ -358,13 +358,13 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #1a252f;
-  border-color: #1a252f;
+  background-color: teal;
+  border-color: teal;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #1a252f;
-  border-color: #1a252f;
+  background-color: teal;
+  border-color: teal;
 }
 
 .btn-secondary {
@@ -373,6 +373,6 @@ a:focus, a:hover, a:active {
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  background-color: #1a252f;
-  border-color: #1a252f;
+  background-color: teal;
+  border-color: teal;
 }
